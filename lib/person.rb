@@ -2,6 +2,6 @@
 
 class Person 
   
-  def new.
+  def initialize ()
   
 end
